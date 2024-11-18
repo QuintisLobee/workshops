@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../admin/DB"
+		},
+		{
+			"path": "../config"
+		},
+		{
+			"path": "../database"
+		},
+		{
+			"path": "../errors"
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../models"
+		},
+		{
+			"path": "../useroverview"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
